@@ -1,0 +1,13 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+/cypress/downloads/
+/cypress/screenshots/
+/cypress/videos/
+/cypress.env.json
+/.playwright-mcp/
+.DS_Store
+Thumbs.db
